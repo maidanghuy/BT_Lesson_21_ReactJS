@@ -4,42 +4,42 @@ export function CardGrid() {
     <>
       <div className="container mt-5">
         <div className="row g-4">
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-solid fa-globe-americas"
               title="Americas"
               buttonText="Americas"
             />
           </div>
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-solid fa-globe-europe"
               title="Europe"
               buttonText="Europe"
             />
           </div>
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-solid fa-globe-africa"
               title="Africa"
               buttonText="Africa"
             />
           </div>
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-regular fa-star"
               title="Start"
               buttonText="Start"
             />
           </div>
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-regular fa-heart"
               title="Heart"
               buttonText="Heart"
             />
           </div>
-          <div className="col-md-4">
+          <div className="col-lg-4 col-md-6">
             <Card
               iconClass="fa-regular fa-thumbs-up"
               title="Like"
