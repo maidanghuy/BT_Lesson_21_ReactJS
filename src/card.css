@@ -1,0 +1,10 @@
+.feature {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    position: absolute;
+    top: 0;
+    transform: translateY(-50%);
+    justify-content: center;
+    align-items: center;
+}
